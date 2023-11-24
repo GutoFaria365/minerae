@@ -1,0 +1,11 @@
+.home-container {
+    text-align: center;
+    margin-top: 20vh; /* Adjust the top margin to center vertically */
+  }
+
+  .user-registration-form {
+    background: #fff; /* Set the background color of the form */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1.1);
+  }
